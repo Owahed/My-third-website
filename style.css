@@ -102,6 +102,7 @@
 }
 .project-body h4{
     padding: 15px 0px 15px 20px;
+    font-size: 20px;
 }
 .project-body p{
     padding: 15px 0px 30px 20px;
@@ -130,4 +131,74 @@
     color: #fff;
    
 
+}
+/* contact */
+.contact-area{
+    height: 300px;
+    margin-top: 150px;
+}
+.contact{
+    width: 25%;
+  float: left;
+  padding-left: 5%;
+}
+.contact-button{
+    margin-top: 50px;
+}
+.contact h3{
+    padding: 10px 0px;
+    font-size: 30px;
+}
+.contact p{
+    padding: 0px 2px;
+    font-weight: 500;
+}
+.contact-link{
+    padding-left: 25px;
+}
+.contact-link li{
+    padding: 5px 0px;
+}
+.contact-link li a{
+    text-decoration: none;
+    font-size: 16px;
+}
+.contact h5{
+    font-size: 1.25rem;
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.contact h6{
+    font-size: 1rem;
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+}
+
+
+/* footer */
+.footer{
+    text-align: center;
+    padding: 50px;
+}
+.footer h4{
+    color: #696871;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 23px;
+}
+.footer h2 a{
+    text-decoration: none;
+}
+.footer h2{
+    padding: 0px 0px 12px 0px;
+    font-size: 32px;
+}
+.footer img{
+    width: 26px;
+    padding: 5px;
 }
